@@ -38,7 +38,7 @@ Note App is aplication to make schedule
 
 ## Screenshots
 <div align="center">
-    <img width="250" src="./src/assets/screenshot/login.png">
+    <img width="250" src="./src/assets/home.png">
 </div>
 
 
